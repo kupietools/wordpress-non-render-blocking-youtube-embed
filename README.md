@@ -9,5 +9,5 @@ When you use YouTube's "share" feature to get a video embed code, it gives you s
 
 What you want is the value of the `src` attribute. To embed the above video use that in the shortcode as follows:
 
-`[ytembed url="https://www.youtube.com/embed/Lp2Y2cXmxPY?si=KC_ZOMsO-N-MIgEh"]` to embed the video as-is
+`[ytembed url="https://www.youtube.com/embed/Lp2Y2cXmxPY?si=KC_ZOMsO-N-MIgEh"]` to embed the video as-is    
 `[ytembed url="https://www.youtube.com/embed/Lp2Y2cXmxPY?si=KC_ZOMsO-N-MIgEh" width="45%" float="left"]` to embed the video, make it take up 45% of the available horizontal space, and float it left, meaning other page elements such as text or other videos will wrap around its right side. 
